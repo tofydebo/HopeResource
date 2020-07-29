@@ -82,7 +82,12 @@ text-align: center;
        float:none;
        }
     }
-    
+
+ @media only screen and (max-width: 767px) {
+    .list a {
+       padding: 6px 12px;
+    }
+}
 .list a:hover {
     background-color: lightgreen;
     color: white;
