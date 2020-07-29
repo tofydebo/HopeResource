@@ -80,14 +80,11 @@ text-align: center;
     .list a {
         width: 80%;
        float:none;
-       }
+        padding: 4px 9px;
+   }
     }
 
- @media only screen and (max-width: 767px) {
-    .list a {
-       padding: 6px 12px;
-    }
-}
+ 
 .list a:hover {
     background-color: lightgreen;
     color: white;
