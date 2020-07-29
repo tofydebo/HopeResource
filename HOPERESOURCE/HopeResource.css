@@ -5,7 +5,7 @@
     }
     @media only screen and (max-width: 767px) {
         #imgtitle {
-            max-width: 30%;
+            max-width: 26%;
  float: left;
 }
     }
@@ -19,7 +19,7 @@
 
  @media only screen and (max-width: 767px) {
     #title {
-       font-size:25px;
+       font-size:20px;
       
        
     }
@@ -61,6 +61,7 @@ nav {
  @media only screen and (max-width: 767px) {
  #nav {
     font-size: 8px;
+
     }
 }
 .list {
@@ -78,7 +79,7 @@ border-right: 1px solid #555;
 @media only screen and (max-width: 767px) {
     .list a {
         width: 80%;
-        float: none;
+        float: left;
     }
     }
     
