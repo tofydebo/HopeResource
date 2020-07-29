@@ -56,7 +56,7 @@ nav {
     padding: 2px;
     overflow: hidden;
  background-color: whitesmoke;
- width: 60%;
+ width: 80%;
 }
  @media only screen and (max-width: 767px) {
  #nav {
@@ -80,7 +80,7 @@ text-align: center;
     .list a {
         width: 80%;
        float:none;
-        padding: 4px 9px;
+        padding: 4px 4px;
    }
     }
 
