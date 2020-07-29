@@ -5,7 +5,7 @@
     }
     @media only screen and (max-width: 767px) {
         #imgtitle {
-            max-width: 30%;
+            max-width: 25%;
             text-align: left;
            
             float: left;
@@ -16,13 +16,14 @@
     color: rgb(95, 189, 95);
     font-family: "Arbutus", "Algerian" ;
     font-size: xx-large;
-    line-height: 1.9;
+    line-height: 0.7;
 }
 
  @media only screen and (max-width: 767px) {
     #title {
-       font-size: 25px;
-       line-height: 1.9;
+       font-size: 23px;
+       line-height: 1.5;
+       
     }
 }
 
@@ -30,14 +31,14 @@
    
    font-family: "Comic Sans MS", "sans-serif";
     font-size: xx-small;
-   line-height: 0.5;
+   line-height: 0.3;
    
    }
 
 
  @media only screen and (max-width: 767px) {
 #italy{
-   line-height: 0.7;
+   line-height: 0.3;
    
     }
 }
