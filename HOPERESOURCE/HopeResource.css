@@ -7,7 +7,7 @@
         #imgtitle {
             max-width: 20%;
             text-align: left;
-            font-size: 16px;
+           
             float: left;
 }
     }
@@ -18,7 +18,14 @@
     font-size: xx-large;
     line-height: 0.5;
 }
-i {
+
+ @media only screen and (max-width: 767px) {
+    #title {
+       font-size: 18px;
+    }
+}
+
+#italy {
    
    font-family: "Comic Sans MS", "sans-serif";
     font-size: xx-small;
