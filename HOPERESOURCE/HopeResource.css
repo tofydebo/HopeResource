@@ -5,7 +5,7 @@
     }
     @media only screen and (max-width: 767px) {
         #imgtitle {
-            max-width: 33%;
+            max-width: 30%;
  float: left;
 }
     }
@@ -58,7 +58,11 @@ nav {
  background-color: whitesmoke;
  width: 60%;
 }
-
+ @media only screen and (max-width: 767px) {
+ #nav {
+    font-size: 8px;
+    }
+}
 .list {
     float: left;
 }
