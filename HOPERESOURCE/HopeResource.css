@@ -252,10 +252,10 @@ max-width: 100vw;
           
           /* Fading animation */
           .fade {
-            -webkit-animation-name: fade;
-            -webkit-animation-duration: 3s;
-            animation-name: fade;
-            animation-duration: 3s;
+            -webkit-animation-name: fadeIn;
+            -webkit-animation-duration: 9s;
+            animation-name: fadeIn;
+            animation-duration: 9s;
           }
           
           @-webkit-keyframes fade {
