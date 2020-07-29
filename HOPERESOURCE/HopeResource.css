@@ -258,12 +258,12 @@ max-width: 100vw;
             animation-duration: 9s;
           }
           
-          @-webkit-keyframes fade {
+          @-webkit-keyframes fadeIn {
             from {opacity: .4} 
             to {opacity: 1}
           }
           
-          @keyframes fade {
+          @keyframes fadeIn {
             from {opacity: .4} 
             to {opacity: 1}
           }
