@@ -3,7 +3,7 @@
  max-width: 10%;
     float: left;
     }
-    @media only screen and (max-width: 767px) {
+    @media only screen and (max-width: 670px) {
         #imgtitle {
             max-width: 19%;
  float: left;
@@ -17,11 +17,11 @@
     line-height: 0.8;
 }
 
- @media only screen and (max-width: 767px) {
+ @media only screen and (max-width: 670px) {
     #title {
        font-size:19px;
 line-height: 0.7;
-text-align: justify;
+
       }
 }
 
@@ -37,7 +37,7 @@ line-height: 0.3;
    }
 
 
- @media only screen and (max-width: 767px) {
+ @media only screen and (max-width: 670px) {
 #italy
    
     }
