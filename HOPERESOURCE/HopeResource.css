@@ -312,12 +312,8 @@ margin: 1px;
        padding: 5px;
        text-align: center;
    }
-   .container {
-       display: flex;
-       justify-content: space-between;
-       align-items: flex-end;
-       ;
-   }
+ 
+   
 
    .column1 {
        width: 100%;
