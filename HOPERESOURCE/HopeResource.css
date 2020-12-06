@@ -3,10 +3,6 @@
    padding: 0;
 }
 
-
-
-
-
 #imgtitle {
    
  max-width: 16%;
@@ -243,10 +239,10 @@ color: white;
           /* Caption text */
           .text {
             color: lavender;
-            font-size: 20px;
-            padding: 8px 12px;
+            font-size: 10px;
+            padding: 8px;
             position: absolute;
-            bottom: 8px;
+           /* bottom: 8px;*/
             width: 100%;
             text-align: left;
           }
