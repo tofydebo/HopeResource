@@ -14,7 +14,7 @@
     }
     @media only screen and (max-width: 670px) {
         #imgtitle {
-            max-width: 19%;
+            max-width: 14%;
  float: left;
 }
     }
@@ -144,6 +144,7 @@ text-align: center;
         text-align: center;
         font-family: "Comic Sans MS", sans-serif;
         line-height: 1.5;
+width: 100vw;
 
     }
 
