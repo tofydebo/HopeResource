@@ -1,3 +1,12 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+
+
+
+
+
 #imgtitle {
    
  max-width: 16%;
@@ -49,10 +58,7 @@ body {
     font-family: "Comic Sans MS", sans-serif;
 color: red;
    width: 100%;
-   margin: 0;
-   padding: 0;
-      
-}
+  }
 header {
     background-color: whitesmoke;
 }
@@ -143,6 +149,7 @@ text-align: center;
 
 .list2 {
     text-align: left;
+color: white;
 }
 
 #imgservices {
