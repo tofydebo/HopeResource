@@ -240,10 +240,10 @@ color: white;
           /* Caption text */
           .text {
             color: lavender;
-            font-size: 10px;
+            font-size: 20px;
             padding: 8px;
-            position: absolute;
-           /* bottom: 8px;*/
+            position: 
+            bottom: 8px;
             width: 100%;
             text-align: left;
           }
