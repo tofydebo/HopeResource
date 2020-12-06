@@ -140,7 +140,7 @@ text-align: center;
         text-align: center;
         font-family: "Comic Sans MS", sans-serif;
         line-height: 1.5;
-width: 100vw;
+width:
 
     }
 
@@ -163,7 +163,7 @@ a {
 
 #servicesa {
     background-color: green;
-    padding: 12px;
+    padding: 0;
 margin-bottom: 0;
 color: white;
 }
