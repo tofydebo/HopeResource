@@ -242,11 +242,11 @@ color: white;
             color: lavender;
             font-size: 15px;
             padding: 8px 12px;
-            bottom: 8px;
+            bottom: 20px;
             width: 100%;
             text-align: left;
             position: absolute;
-            top: 0;
+            
             left: 3px
 }
 
